@@ -1,0 +1,35 @@
+.list {
+  list-style: none;
+  padding: 24px;
+}
+
+.list h2 {
+  color: #586673;
+  font-size: 1rem;
+  font-family: Roboto, 'Open Sans', 'Helvetica Neue', sans-serif;
+  line-height: 1.5rem;
+  letter-spacing: 0.2px;
+  margin-bottom: 16px;
+}
+
+.leftbar {
+  background-color: #fff;
+  border-radius: 24px;
+  height: 1200px;
+  margin-top: 24px;
+  width: 100%;
+}
+
+.monitoring,
+.profiles {
+  background-color: #f7f8fc;
+  border-radius: 8px;
+  padding: 8px;
+  display: flex;
+  align-items: center;
+  margin-bottom: 16px;
+  margin-left: 16px;
+  color: #11aabb;
+  position: relative;
+  right: 8px;
+}

@@ -1,0 +1,75 @@
+body {
+  background-color: #f7f8fc;
+}
+
+.modal-container {
+  height: 100vh;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 2000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal {
+  background: #eeffee;
+  max-width: 35vw;
+  max-width: 600px;
+  padding: 16px;
+  position: relative;
+  box-sizing: border-box;
+  border-radius: 8px;
+  margin-bottom: 100px;
+}
+
+.modalItem,
+.modalButtons {
+  display: flex;
+  align-items: center;
+}
+
+.checkIcon {
+  margin-right: 16px;
+  width: 2rem !important;
+  height: 2rem !important;
+}
+
+.modalText {
+  max-width: 400px;
+}
+
+.modalText,
+.confirmButton,
+.checkIcon {
+  color: #4bb543;
+  font-weight: bold !important;
+}
+
+.modalButtons {
+  margin-top: 0px !important;
+  float: right;
+  margin-right: 16px;
+}
+
+.cancelButton,
+.confirmButton {
+  font-family: 'Roboto' !important;
+  font-size: 1rem !important;
+  line-height: 1.5rem !important;
+  letter-spacing: 0.2px !important;
+}
+
+.cancelButton {
+  background: none;
+  color: #586673;
+  font-weight: bold;
+  margin-right: 16px;
+}
+
+.confirmButton {
+  background: none;
+}
