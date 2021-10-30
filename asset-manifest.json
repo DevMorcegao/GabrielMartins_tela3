@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/GabrielMartins_tela3/static/css/main.67d4025a.chunk.css",
+    "main.js": "/GabrielMartins_tela3/static/js/main.52930f8f.chunk.js",
+    "main.js.map": "/GabrielMartins_tela3/static/js/main.52930f8f.chunk.js.map",
+    "runtime-main.js": "/GabrielMartins_tela3/static/js/runtime-main.23e9f82b.js",
+    "runtime-main.js.map": "/GabrielMartins_tela3/static/js/runtime-main.23e9f82b.js.map",
+    "static/js/2.60351696.chunk.js": "/GabrielMartins_tela3/static/js/2.60351696.chunk.js",
+    "static/js/2.60351696.chunk.js.map": "/GabrielMartins_tela3/static/js/2.60351696.chunk.js.map",
+    "index.html": "/GabrielMartins_tela3/index.html",
+    "static/css/main.67d4025a.chunk.css.map": "/GabrielMartins_tela3/static/css/main.67d4025a.chunk.css.map",
+    "static/js/2.60351696.chunk.js.LICENSE.txt": "/GabrielMartins_tela3/static/js/2.60351696.chunk.js.LICENSE.txt",
+    "static/media/avatar.4a525c59.jpg": "/GabrielMartins_tela3/static/media/avatar.4a525c59.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.23e9f82b.js",
+    "static/js/2.60351696.chunk.js",
+    "static/css/main.67d4025a.chunk.css",
+    "static/js/main.52930f8f.chunk.js"
+  ]
+}
